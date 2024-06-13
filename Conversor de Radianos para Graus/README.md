@@ -1,0 +1,1 @@
+Esta classe converte radianos em graus utilizando o método toDegrees da classe Math. Pode ser utilizada em aplicações que necessitam converter valores angulares de radianos para graus, como em gráficos e cálculos trigonométric

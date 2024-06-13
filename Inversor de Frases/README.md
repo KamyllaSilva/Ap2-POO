@@ -1,0 +1,1 @@
+Esta classe recebe uma frase, remove os espaços em branco, e a exibe de trás para frente. Pode ser usada em aplicações que necessitam manipulação de strings e processamento de texto.

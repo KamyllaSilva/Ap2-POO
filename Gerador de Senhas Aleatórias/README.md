@@ -1,0 +1,1 @@
+Esta classe gera uma senha numérica aleatória com um número de dígitos entre 5 e 10, baseado em um número gerado aleatoriamente. É útil para aplicações que necessitam de geração de senhas seguras e aleatórias para usuários.

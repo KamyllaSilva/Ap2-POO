@@ -1,0 +1,1 @@
+Esta classe eleva um número a uma potência utilizando o método pow da classe Math. É útil em cálculos matemáticos e científicos que necessitam de operações de potenciação.

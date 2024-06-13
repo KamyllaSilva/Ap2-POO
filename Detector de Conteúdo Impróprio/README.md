@@ -1,0 +1,1 @@
+sta classe verifica se uma frase contém as palavras "sexo" ou "sexual" e emite uma mensagem indicando se o conteúdo é impróprio ou liberado. Pode ser utilizada para moderação de conteúdo em plataformas que necessitam filtrar linguagem inadequada.

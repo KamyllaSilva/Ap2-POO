@@ -1,0 +1,1 @@
+Esta classe exibe o substring de uma string composta por todos os caracteres exceto o último. É útil para manipulação de strings e pode ser utilizada em várias aplicações que requerem processamento de texto.

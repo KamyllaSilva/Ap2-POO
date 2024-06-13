@@ -1,0 +1,1 @@
+Esta classe simula a jogada de um dado de seis lados três vezes, somando os valores obtidos em cada jogada e exibindo o resultado final. É útil para simulações de jogos e outras aplicações que requerem geração de números aleatórios dentro de um intervalo específico.

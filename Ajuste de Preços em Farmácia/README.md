@@ -1,0 +1,1 @@
+Aumenta os preços dos produtos de uma farmácia em 12%. Utiliza o método round para arredondar o resultado. O programa encerra quando o valor do produto digitado for zero.
